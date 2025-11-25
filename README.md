@@ -27,7 +27,7 @@ This repository contains feature files and code used in the manuscript on **FGS 
 3. Open the Jupyter Notebook:
   ```bash
     jupyter lab
-- Then run Ensemble_model.ipynb.
+4. Then run Ensemble_model.ipynb.
 🧾 Notes
 - The MATLAB script (specular_reflection_mask_estimation.m) requires MATLAB installed locally.
 - The environment file ensures reproducibility of results by installing the exact dependencies.
