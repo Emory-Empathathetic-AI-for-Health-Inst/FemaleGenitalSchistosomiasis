@@ -24,7 +24,8 @@ This repository contains feature files and code used in the manuscript on **FGS 
   ```bash
    conda env create -f environment.yml
    conda activate my_env
-## 3. Open the Jupyter Notebook:
+
+##3.Open the Jupyter Notebook:
   ```bash
     jupyter lab
 ## 4. Then run Ensemble_model.ipynb.
