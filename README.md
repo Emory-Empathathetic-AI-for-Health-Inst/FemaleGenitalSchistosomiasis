@@ -2,7 +2,7 @@
 
 This repository contains the feature files and code used in the manuscript on **Female Genital Schistosomiasis (FGS) detection** using ensemble deep learning models and pre-processing techniques.
 
-## ðŸ“‚ Repository Contents
+## 📂 Repository Contents
 
 - **Ensemble_model.ipynb**  
   Jupyter Notebook implementing the ensemble model used for final FGS classification.
@@ -13,7 +13,7 @@ This repository contains the feature files and code used in the manuscript on **
 - **specular_reflection_mask_estimation.m**  
   MATLAB script for computing the specular reflection mask used during preprocessing.
 
-## âš™ï¸ Setup Instructions
+## ⚙️ Setup Instructions
 
 ### 1. Clone the repository
 ```bash
@@ -35,12 +35,12 @@ jupyter lab
 ### 4. Run the Notebook
 Open and execute **Ensemble_model.ipynb** to reproduce the model training and evaluation.
 
-## ðŸ§¾ Notes
+### 🧾 Notes
 
 - The MATLAB script (**specular_reflection_mask_estimation.m**) requires a local installation of **MATLAB**.
 - The provided **Conda environment** ensures reproducibility by installing the exact versions of all required libraries.
 
-## ðŸ“š Citation
+## 🧾 Citation
 
 If you use this repository or any associated methods in your research, please cite:
 
